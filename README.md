@@ -10,3 +10,7 @@ Development: https://rawgit.com/marcelo-tibau/semantic-markup-example/master/ind
 
 ### With semantic markup:
 https://rawgit.com/marcelo-tibau/semantic-markup-example/master/index_semantic_beatles.html
+
+Production: https://cdn.rawgit.com/marcelo-tibau/semantic-markup-example/f84bd0bd/index_semantic_beatles.html
+
+Development: https://rawgit.com/marcelo-tibau/semantic-markup-example/master/index_semantic_beatles.html

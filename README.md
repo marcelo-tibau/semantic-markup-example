@@ -24,3 +24,7 @@ Development: https://rawgit.com/marcelo-tibau/semantic-markup-example/master/Str
 Structured Data: https://developers.google.com/search/docs/guides/intro-structured-data
 
 Testing tool: https://search.google.com/structured-data/testing-tool
+
+Tag Manager: https://www.google.com/analytics/tag-manager/
+
+Tag Manager Guide: https://developers.google.com/tag-manager/quickstart

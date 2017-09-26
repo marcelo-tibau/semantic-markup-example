@@ -1,5 +1,5 @@
 # Semantic markup example
-An example of semantic markup implemented at a downloaded page from https://www.azlyrics.com/lyrics/beatles/i-am-the-walrus.html using schema.org vocabulary.
+An example of semantic markup implemented at a downloaded page from https://www.azlyrics.com/lyrics/beatles/i-am-the-walrus.html as well as others using schema.org vocabulary.
 
 ### Without semantic markup:
 https://rawgit.com/marcelo-tibau/semantic-markup-example/master/index_beatles.html
@@ -19,3 +19,8 @@ Development: https://rawgit.com/marcelo-tibau/semantic-markup-example/master/ind
 Production: https://cdn.rawgit.com/marcelo-tibau/semantic-markup-example/27d8e7ee/Strawberry-Mango-Mesclun-Recipe.html
 
 Development: https://rawgit.com/marcelo-tibau/semantic-markup-example/master/Strawberry-Mango-Mesclun-Recipe.html
+
+### Google
+Structured Data: https://developers.google.com/search/docs/guides/intro-structured-data
+
+Testing tool: https://search.google.com/structured-data/testing-tool

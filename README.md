@@ -14,3 +14,8 @@ https://rawgit.com/marcelo-tibau/semantic-markup-example/master/index_semantic_b
 Production: https://cdn.rawgit.com/marcelo-tibau/semantic-markup-example/f84bd0bd/index_semantic_beatles.html
 
 Development: https://rawgit.com/marcelo-tibau/semantic-markup-example/master/index_semantic_beatles.html
+
+### Strawberry Mango Mesclun Salad
+Production: https://cdn.rawgit.com/marcelo-tibau/semantic-markup-example/27d8e7ee/Strawberry-Mango-Mesclun-Recipe.html
+
+Development: https://rawgit.com/marcelo-tibau/semantic-markup-example/master/Strawberry-Mango-Mesclun-Recipe.html

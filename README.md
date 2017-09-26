@@ -28,3 +28,5 @@ Testing tool: https://search.google.com/structured-data/testing-tool
 Tag Manager: https://www.google.com/analytics/tag-manager/
 
 Tag Manager Guide: https://developers.google.com/tag-manager/quickstart
+
+Tag Manager Tutorial: http://www.amazeemetrics.com/en/blog/google-tag-manager-tutorial-part-1-tracking-outbound-links-gtm-version-2
